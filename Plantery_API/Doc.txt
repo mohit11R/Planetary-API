@@ -1,0 +1,29 @@
+PLANETARY API 
+
+PLANETARY API --  1) Web App  2) Mobile App 3) Desktop App   
+Testing using POSTMAN
+Database SQLAlchemy or SQLITE 
+
+
+API Features
+
+1) List all known planets
+2) Register new Users
+3) Authenticate existing users
+4) Add new planetary discoveries to the database 
+5) Update existing planetary data 
+5) Delete planets when necessary 
+
+
+Benefits of an ORM 
+1) Works with Python objects, not SQL 
+2) Allows you to switch your database easily 
+3) You can control the structure of your database from your code, which can be managed by a revision control system like Git.
+4) Supports multiple databases platforms
+
+
+Securing Your API with JSON Web Tokens (JWTs)
+
+Flask-Login -- For Login
+Flask-User -- For Users
+
