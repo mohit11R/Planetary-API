@@ -17,7 +17,7 @@
 
 ## Overview
 
-1. Build a Restful API using Flask for Web app , Mobile app, Desktop app
+1. Build a Restful API using Flask for Web app , Mobile app, Desktop app.
 2. Testing of API is done by using POSTMAN application and soon will be done by automation scripts using selenium , unittest libraries.
 3. For this API Database is SQLAlchemy. It is easy to use.
 
@@ -57,10 +57,10 @@ Planetary API
 
 ## Benefits of an ORM (Object–relational mapping)
 
-1. Works with Python objects, not SQL 
-2. Allows you to switch your database easily 
+1. Works with Python objects, not SQL.
+2. Allows you to switch your database easily.
 3. You can control the structure of your database from your code, which can be managed by a revision control system like Git.
-4. Supports multiple databases platforms
+4. Supports multiple databases platforms.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
